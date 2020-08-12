@@ -1,0 +1,9 @@
+*.txt
+*.csv
+*.ptsp
+*.DS_Store
+._*
+*.gif
+*.class
+*.png
+results/
